@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182191653761",
+    "project_id": "chatting-app-e110e",
+    "storage_bucket": "chatting-app-e110e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182191653761:android:19213c500dd6e6a2f0de80",
+        "android_client_info": {
+          "package_name": "com.hawary.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182191653761-eii1fbort76h5mn7mrsbgrhocmlpe1qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC0Dvuo1zVJBbfXALV4r9KS5bteHPhqzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182191653761-eii1fbort76h5mn7mrsbgrhocmlpe1qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
